@@ -1,10 +1,8 @@
 <div style="text-align:center;">
 	<h3>
-	   <img src="/HQC logo shu.png" width="100%"> 
-		<img align="left" height="100" width="100" src="HQC logo shu.png" title="" alt="" /><br />
-</h3>
-<h1>
-	<span style="font-family:&quot;"><span style="color:#E53333;">中国寰球<span style="color:#E56600;">工程有限公司</span></span><span style="color:#FF9900;">中东公司</span></span>
+		<img align="left" height="100" width="100" src="HQC logo shu.png" title="" alt="" />
+	</h3>
+	<h1><span style="font-family:&quot;"><span style="color:#E53333;">中国寰球<span style="color:#E56600;">工程有限公司</span></span><span style="color:#FF9900;">中东公司</span></span>
 </h1>
 </div>
 
