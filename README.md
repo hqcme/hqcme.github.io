@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-	<img src="hqc logo shu.png" alt="" /><strong><span style="font-family:&quot;font-size:24px;color:#E53333;"><span style="font-size:32px;">中国寰球工程有限公司</span><span style="color:#FF9900;font-size:32px;">中东公司</span></span></strong>
+	<img src="HQC logo shu.png" alt="" /><strong><span style="font-family:&quot;font-size:24px;color:#E53333;"><span style="font-size:32px;">中国寰球工程有限公司</span><span style="color:#FF9900;font-size:32px;">中东公司</span></span></strong>
 </div>
 
 ## 关于HQCME
