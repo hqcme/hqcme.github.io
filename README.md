@@ -1,7 +1,7 @@
  <table border="0">
   <tr>
     <td width="25%">
-      <img src="/HQC logo shu.png" width="100%">
+      <img src="/HQC logo shu.png" width="25%">
     </td>
     <td width="50%">
       <h1>中国寰球工程有限公司中东公司</h1>
