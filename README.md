@@ -1,5 +1,6 @@
-<img src="/hqc logo shu.jpg" alt="" /><strong><span style="font-family:&quot;font-size:24px;color:#E53333;">中国寰球工程有限公司<span style="color:#FF9900;">中东公司</span></span></strong>
-
+<div style="text-align:center;">
+	<img src="/ke4/attached/W020091124524510014093.jpg" alt="" /><strong><span style="font-family:&quot;font-size:24px;color:#E53333;"><span style="font-size:32px;">中国寰球工程有限公司</span><span style="color:#FF9900;font-size:32px;">中东公司</span></span></strong>
+</div>
 ## 关于HQCME
 ### 1、发展历程：
 中东公司成立于2010年，下辖沙特分公司、阿布扎比分公司、伊拉克分公司、伊朗新能源公司和科威特办事处等机构。
