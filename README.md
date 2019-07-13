@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+ <table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/HQC logo shu.png" width="100%">
+    </td>
+    <td width="50%">
+      <h1>中国寰球工程有限公司中东公司</h1>
+      <p><b></b></p>
+    </td>
+  </tr>
+</table>
+## 关于HQCME
+### 1、发展历程：
+2007—2019年（包括各个国别公司的建立和重点项目的签约实施）
+### 2、组织结构：
+   <img src="/organization.jpg" width="100%"> 
 
-You can use the [editor on GitHub](https://github.com/hqcme/hqcme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 3、人员资质：
+中东公司目前有博士10人，工程师，高级工程师30人
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## HQCME——业务情况
+### 1、基础管理
+投标报价、项目管理（价格库、资源库、国别报告、程序文件、分包商准入）、采购管理（供应商准入）、建立人才信息库、法务资源、财务基础工作（制度建设、部门建设【人员调配、组织机构】、部门管理）
+### 2、市场开发
+梳理市场、项目信息，与业主及各合作伙伴对接，推动参与项目
+### 3、项目执行
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 党建党纪
 
-```markdown
-Syntax highlighted code block
+## 发展规划
+### 1、中东区域形势分析：
+形势、
+机遇、
+挑战
+### 2、发展定位：
+通过业务分析，找到自己的位置，确定如何发展；
+### 3、发展策略：
+2017及2018年上半年主要推动大项目，2018年下半年至今重心转移到关注中东公司有能力主导的项目为主，并配合寰球公司在中东区域的大项目市场开发；
+### 4、发展目标：
+首先实现中东公司自负盈亏、进而实现盈利及正现金流；培养人才，锻炼队伍；增加经验；积累业绩；提高寰球公司品牌知名度，获得业主认可；为大型项目开发做好基础工作和推动支持工作；
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 工作部署
+### 基础工作
+1）	薪酬体系；
+2）	管理提升；--侧重基础管理方面的提升。以前管理相对混乱，基础工作薄弱（人事、行政、档案、财务、税务、资金【银行POA管理】、法务、保险等，公司治理【沙特公司更名/阿布扎比公司更名/伊拉克公司税务、资金、社保注册等】，）
+3）	人才培养和团队建设；
+（自有人才培养和管理； 本地化、国际化人才招聘和管理； 团队活动和文化管理）
+4）	项目执行；-- 侧重项目执行、管理能力方面的改进，包括报价团队建设等
 
-1. Numbered
-2. List
+### 市场开发策略
+1）	各国别市场的推动策略（因国别的不同情况而不同）
 
-**Bold** and _Italic_ and `Code` text
+### 项目推动
+1）	项目分类
+list （A 今年必签（主要是中东公司主导的）； 
+B 重点推动（分中东公司主导， 总部统筹两部分）； 
+C 一般跟踪（也是分中东公司主导，总部统筹两部分））
+2）	A类项目推进策略
+3）	B类项目推进策略
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hqcme/hqcme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
